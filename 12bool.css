@@ -1,5 +1,5 @@
 .col1 {
-    flex-basis: calc(((100% / 12) * 1) - 1vh);
+    flex-basis: calc((100% / 12) * 1);
 }
 
 .col2 {
