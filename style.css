@@ -1,0 +1,16 @@
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.col1 {
+    height: 10vh;
+    background-color: blue;
+    width: calc((100 / 12) * 1);
+}
