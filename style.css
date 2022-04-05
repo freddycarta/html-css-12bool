@@ -12,76 +12,12 @@
 
 
 }
+
+[class*=col] {
+    height: 10vh;
+    background-color: blue;
+    border: 1px inset white;
+}
  
-.col1 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-    
-}
-.col2 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-}
-.col3 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-}.col4 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-}
-.col5 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-}
-.col6 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-}
-.col7 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-}
-.col8 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-}
-.col9 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-}
-.col10 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-}
-.col11 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
-    
-}
-.col12 {
-    height: 10vh;
-    background-color: blue;
-    border: 1px inset white;
     
 }
