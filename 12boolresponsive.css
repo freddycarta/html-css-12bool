@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* SM */
+
+.colsm1 {
+    flex-basis: calc((100 / 12) * 1);
+    
+}
+.colsm2 {
+    flex-basis: calc((100 / 12) * 2);
+}
+.colsm3 {
+    flex-basis: calc((100 / 12) * 3);
+}
+.colsm4 {
+    flex-basis: calc((100 / 12) * 4);
+}
+.colsm5 {
+    flex-basis: calc((100 / 12) * 5);
+}
+.colsm6 {
+    flex-basis: calc((100 / 12) * 6);
+}
+.colsm7 {
+    flex-basis: calc((100 / 12) * 7);
+}
+.colsm8 {
+    flex-basis: calc((100 / 12) * 8);
+}
+.colsm9 {
+    flex-basis: calc((100 / 12) * 9);
+}
+.colsm10 {
+    flex-basis: calc((100 / 12) * 10);
+}
+.colsm11 {
+    flex-basis: calc((100 / 12) * 11);
+}
+.colsm12 {
+    flex-basis: calc((100 / 12) * 12);
+}
+
+/* MD */
+
+.colsm1 {
+    flex-basis: calc((100 / 12) * 1);
+    
+}
+.colmd2 {
+    flex-basis: calc((100 / 12) * 2);
+}
+.colmd3 {
+    flex-basis: calc((100 / 12) * 3);
+}
+.colmd4 {
+    flex-basis: calc((100 / 12) * 4);
+}
+.colmd5 {
+    flex-basis: calc((100 / 12) * 5);
+}
+.colmd6 {
+    flex-basis: calc((100 / 12) * 6);
+}
+.colmd7 {
+    flex-basis: calc((100 / 12) * 7);
+}
+.colmd8 {
+    flex-basis: calc((100 / 12) * 8);
+}
+.colmd9 {
+    flex-basis: calc((100 / 12) * 9);
+}
+.colmd10 {
+    flex-basis: calc((100 / 12) * 10);
+}
+.colmd11 {
+    flex-basis: calc((100 / 12) * 11);
+}
+.colmd12 {
+    flex-basis: calc((100 / 12) * 12);
+}
+
+/* LG 992 */
+
+.collg1 {
+    flex-basis: calc((100 / 12) * 1);   
+}
+.collg2 {
+    flex-basis: calc((100 / 12) * 2);
+}
+.collg3 {
+    flex-basis: calc((100 / 12) * 3);
+}
+.collg4 {
+    flex-basis: calc((100 / 12) * 4);
+}
+.collg5 {
+    flex-basis: calc((100 / 12) * 5);
+}
+.collg6 {
+    flex-basis: calc((100 / 12) * 6);
+}
+.collg7 {
+    flex-basis: calc((100 / 12) * 7);
+}
+.collg8 {
+    flex-basis: calc((100 / 12) * 8);
+}
+.collg9 {
+    flex-basis: calc((100 / 12) * 9);
+}
+.collg10 {
+    flex-basis: calc((100 / 12) * 10);
+}
+.collg11 {
+    flex-basis: calc((100 / 12) * 11);
+}
+.collg12 {
+    flex-basis: calc((100 / 12) * 12);
+}
+
+
+
