@@ -35,3 +35,8 @@
 .col12 {
     flex-basis: calc((100% / 12) * 12);
 }
+
+.flexend {
+    display: flex;
+    justify-content: flex-end;
+}
